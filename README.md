@@ -60,5 +60,4 @@ Java | Spring Boot | Spring Security | MySQL | REST API | Maven | Git
 
 Email: mdobariya568@gmail.com  
 LinkedIn: https://www.linkedin.com/in/meet-dobariya-1a216a2b6/
-GitHub: https://github.com/mdobariya3606-prog
-Leetcode: 
+Leetcode: https://leetcode.com/u/meet_5181/
