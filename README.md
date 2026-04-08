@@ -1,16 +1,29 @@
-## Hi there 👋
+# Meet Dobariya
 
-<!--
-**mdobariya3606-prog/mdobariya3606-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | Java | Spring Boot | SQL
 
-Here are some ideas to get you started:
+Focused on building secure, scalable backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Java
+- Spring Boot
+- Spring Security
+- MySQL
+- REST APIs
+- Git
+- OOP
+- DSA
+
+## Projects
+- JWT Authentication System
+- Task Management API
+- Book Management System
+
+## Current Focus
+- Advanced Spring Security
+- Data Engineering fundamentals
+- Improving problem solving (DSA)
+
+## Contact
+Email: mdobariya568@gmail.com
+LinkedIn: add link
