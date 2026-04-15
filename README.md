@@ -63,10 +63,17 @@ Tech: Java, Spring Boot, MySQL
 
 ---
 
-### 7. Book Management System
+### 7. Quiz Application API
+Backend REST API for conducting quizzes with random question generation, answer validation, and score tracking. Ensures each user receives unique questions and stores quiz attempt history for performance evaluation.
+
+Tech: Java, Spring Boot, JPA, MySQL
+
+---
+
+### 8. Book Management System
 CRUD-based backend system for managing book records with database integration and structured API design.
 
-Tech: PHP/MySQL or Java/Spring Boot
+Tech: Angukar - Java/Spring Boot
 
 ---
 
