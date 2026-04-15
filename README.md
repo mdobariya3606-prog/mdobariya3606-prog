@@ -73,7 +73,7 @@ Tech: Java, Spring Boot, JPA, MySQL
 ### 8. Book Management System
 CRUD-based backend system for managing book records with database integration and structured API design.
 
-Tech: Angukar - Java/Spring Boot
+Tech: Angular - Java/Spring Boot
 
 ---
 
