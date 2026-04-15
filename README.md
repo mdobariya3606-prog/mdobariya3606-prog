@@ -21,23 +21,52 @@ Focused on building secure, scalable backend systems and improving problem-solvi
 
 ## Projects
 
-### 1. Smart Courier Management System
-Backend system with multi-role workflow (Admin, Manager, Delivery Agent, Customer), delivery tracking, order assignment, stock alerts, and notification system.
+### 1. Bank Management System
+Backend REST API for managing banking operations such as account creation, deposit, withdrawal, transfer, debit card generation, and transaction tracking. Implements ACID properties to maintain transactional consistency and uses pessimistic locking to handle concurrent balance updates.
 
-### 2. JWT Authentication API
-Secure authentication REST API using Spring Boot, Spring Security, and JWT token validation.
+Tech: Java, Spring Boot, JPA, Hibernate, MySQL
 
-### 3. Task Management System
-REST API for managing tasks with status tracking, filtering, and user-based task organization.
+---
 
-### 4. URL Shortener
-Backend service to convert long URLs into short unique links and redirect users efficiently.
+### 2. Smart Courier Management System
+Backend system supporting multi-role workflow including Admin, Manager, Delivery Agent, and Customer. Handles order lifecycle, assignment logic, delivery tracking, stock alerts, and notification management.
 
-### 5. Book Management System
-CRUD-based backend system for managing books, records, and database operations using MySQL.
+Tech: Java, Spring Boot, MySQL
+
+---
+
+### 3. JWT Authentication API
+Secure authentication system implementing token-based authorization using Spring Security and JWT. Handles login validation, token generation, and request filtering for protected endpoints.
+
+Tech: Java, Spring Boot, Spring Security, JWT
+
+---
+
+### 4. Task Management System
+REST API enabling users to create, update, delete, and filter tasks with status tracking and structured task organization.
+
+Tech: Java, Spring Boot, MySQL
+
+---
+
+### 5. URL Shortener
+Backend service that converts long URLs into short unique identifiers and redirects users efficiently using database mapping.
+
+Tech: Java, Spring Boot, MySQL
+
+---
 
 ### 6. Sale Campaign Management
-Backend system for managing promotional campaigns and tracking campaign-related operations.
+Backend application for managing promotional campaigns including creation, modification, and tracking of campaign-related operations.
+
+Tech: Java, Spring Boot, MySQL
+
+---
+
+### 7. Book Management System
+CRUD-based backend system for managing book records with database integration and structured API design.
+
+Tech: PHP/MySQL or Java/Spring Boot
 
 ---
 
@@ -59,5 +88,5 @@ Java | Spring Boot | Spring Security | MySQL | REST API | Maven | Git
 ## Contact
 
 Email: mdobariya568@gmail.com  
-LinkedIn: https://www.linkedin.com/in/meet-dobariya-1a216a2b6/
+LinkedIn: https://www.linkedin.com/in/meet-dobariya-1a216a2b6/  
 Leetcode: https://leetcode.com/u/meet_5181/
