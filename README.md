@@ -28,49 +28,57 @@ Tech: Java, Spring Boot, JPA, Hibernate, MySQL
 
 ---
 
-### 2. Smart Courier Management System
+### 2. Multi-Channel Notification System 
+Backend system handling product purchases, billing with GST calculation, and inventory management. Implemented automated stock updates, low-stock alerts, payment validation, and notification
+workflows for efficient operations
+
+Tech: Java, Spring Boot, MySQL
+
+---
+
+### 3. Smart Courier Management System
 Backend system supporting multi-role workflow including Admin, Manager, Delivery Agent, and Customer. Handles order lifecycle, assignment logic, delivery tracking, stock alerts, and notification management.
 
 Tech: Java, Spring Boot, MySQL
 
 ---
 
-### 3. JWT Authentication API
+### 4. JWT Authentication API
 Secure authentication system implementing token-based authorization using Spring Security and JWT. Handles login validation, token generation, and request filtering for protected endpoints.
 
 Tech: Java, Spring Boot, Spring Security, JWT
 
 ---
 
-### 4. Task Management System
+### 5. Task Management System
 REST API enabling users to create, update, delete, and filter tasks with status tracking and structured task organization.
 
 Tech: Java, Spring Boot, MySQL
 
 ---
 
-### 5. URL Shortener
+### 6. URL Shortener
 Backend service that converts long URLs into short unique identifiers and redirects users efficiently using database mapping.
 
 Tech: Java, Spring Boot, MySQL
 
 ---
 
-### 6. Sale Campaign Management
+### 7. Campaign Lifecycle Management System
 Backend application for managing promotional campaigns including creation, modification, and tracking of campaign-related operations.
 
 Tech: Java, Spring Boot, MySQL
 
 ---
 
-### 7. Quiz Application API
+### 8. Quiz Application API
 Backend REST API for conducting quizzes with random question generation, answer validation, and score tracking. Ensures each user receives unique questions and stores quiz attempt history for performance evaluation.
 
 Tech: Java, Spring Boot, JPA, MySQL
 
 ---
 
-### 8. Book Management System
+### 9. Book Management System
 CRUD-based backend system for managing book records with database integration and structured API design.
 
 Tech: Angular - Java/Spring Boot
