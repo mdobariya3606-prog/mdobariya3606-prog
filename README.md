@@ -1,107 +1,123 @@
 # Meet Dobariya
 
-Backend Developer | Java | Spring Boot | SQL
+**Backend Developer | Java | Spring Boot | SQL**
 
-Focused on building secure, scalable backend systems and improving problem-solving skills through DSA.
+Backend-focused developer skilled in designing secure, scalable REST APIs and structured database systems. Strong foundation in Object-Oriented Programming, Data Structures & Algorithms, and backend architecture principles. Focused on writing clean, maintainable code and building reliable server-side applications.
 
 ---
 
 ## Skills
 
+### Languages & Core
 - Java
+- SQL
+- OOP (Object-Oriented Programming)
+- Data Structures & Algorithms
+
+### Backend Development
 - Spring Boot
 - Spring Security
+- REST API Design
+- JPA / Hibernate
+- Authentication & Authorization (JWT)
+
+### Database
 - MySQL
-- REST APIs
-- OOP
+- Database Design
+- Normalization
+- Transaction Management
+
+### Tools
 - Git & GitHub
-- DSA (Data Structures & Algorithms)
+- Maven
+- IntelliJ IDEA
+- Postman
 
 ---
 
-## Projects
+## Projects (Sorted by Difficulty)
 
 ### 1. Bank Management System
-Backend REST API for managing banking operations such as account creation, deposit, withdrawal, transfer, debit card generation, and transaction tracking. Implements ACID properties to maintain transactional consistency and uses pessimistic locking to handle concurrent balance updates.
+Advanced transactional banking system supporting account creation, deposits, withdrawals, transfers, debit card generation, and transaction history. Implements ACID-compliant transaction handling and pessimistic locking to ensure data consistency during concurrent balance updates.
 
-Tech: Java, Spring Boot, JPA, Hibernate, MySQL
-
----
-
-### 2. Multi-Channel Notification System 
-Backend system handling product purchases, billing with GST calculation, and inventory management. Implemented automated stock updates, low-stock alerts, payment validation, and notification
-workflows for efficient operations
-
-Tech: Java, Spring Boot, MySQL
+**Tech Stack:** Java, Spring Boot, JPA, Hibernate, MySQL
 
 ---
 
-### 3. Smart Courier Management System
-Backend system supporting multi-role workflow including Admin, Manager, Delivery Agent, and Customer. Handles order lifecycle, assignment logic, delivery tracking, stock alerts, and notification management.
+### 2. JWT Authentication API
+Secure authentication system implementing token-based authorization using Spring Security and JWT. Handles login validation, token generation, and request filtering for protected endpoints with stateless session management.
 
-Tech: Java, Spring Boot, MySQL
-
----
-
-### 4. JWT Authentication API
-Secure authentication system implementing token-based authorization using Spring Security and JWT. Handles login validation, token generation, and request filtering for protected endpoints.
-
-Tech: Java, Spring Boot, Spring Security, JWT
+**Tech Stack:** Java, Spring Boot, Spring Security, JWT
 
 ---
 
-### 5. Task Management System
-REST API enabling users to create, update, delete, and filter tasks with status tracking and structured task organization.
+### 3. Multi-Channel Notification System
+Backend system managing order processing, GST-based billing, and inventory tracking. Implements automated stock updates, low-stock alerts, payment validation, and notification triggers across multiple communication channels.
 
-Tech: Java, Spring Boot, MySQL
+**Tech Stack:** Java, Spring Boot, MySQL
 
 ---
 
-### 6. URL Shortener
-Backend service that converts long URLs into short unique identifiers and redirects users efficiently using database mapping.
+### 4. Smart Courier Management System
+Multi-role backend workflow supporting Admin, Manager, Delivery Agent, and Customer roles. Handles order lifecycle, assignment logic, delivery tracking, and operational notifications.
 
-Tech: Java, Spring Boot, MySQL
+**Tech Stack:** Java, Spring Boot, MySQL
+
+---
+
+### 5. URL Shortener
+Service that converts long URLs into short unique identifiers and redirects users efficiently using database mapping and optimized lookup queries.
+
+**Tech Stack:** Java, Spring Boot, MySQL
+
+---
+
+### 6. Quiz Application API
+Backend quiz engine supporting random question generation, answer validation, scoring logic, and attempt history tracking. Ensures unique question distribution for each user session.
+
+**Tech Stack:** Java, Spring Boot, JPA, MySQL
 
 ---
 
 ### 7. Campaign Lifecycle Management System
-Backend application for managing promotional campaigns including creation, modification, and tracking of campaign-related operations.
+Backend modules for campaign creation, modification, and tracking with structured workflow handling.
 
-Tech: Java, Spring Boot, MySQL
+**Tech Stack:** Java, Spring Boot, MySQL
 
 ---
 
-### 8. Quiz Application API
-Backend REST API for conducting quizzes with random question generation, answer validation, and score tracking. Ensures each user receives unique questions and stores quiz attempt history for performance evaluation.
+### 8. Task Management System
+REST API enabling task creation, updating, deletion, and filtering with status tracking. Designed using layered architecture for maintainability.
 
-Tech: Java, Spring Boot, JPA, MySQL
+**Tech Stack:** Java, Spring Boot, MySQL
 
 ---
 
 ### 9. Book Management System
-CRUD-based backend system for managing book records with database integration and structured API design.
+RESTful backend for managing book records with structured database relationships and CRUD operations. Integrated with Angular frontend for full-stack functionality.
 
-Tech: Angular - Java/Spring Boot
+**Tech Stack:** Angular, Java, Spring Boot, MySQL
 
 ---
 
 ## Current Focus
 
 - Advanced Spring Security
-- Role-based authorization
-- Writing cleaner backend architecture
-- Improving DSA problem solving
+- Role-Based Authorization (RBAC)
+- Scalable Backend Architecture
+- Writing clean service-layer logic
+- Improving DSA problem solving speed
 
 ---
 
 ## Tech Stack
 
-Java | Spring Boot | Spring Security | MySQL | REST API | Maven | Git
+Java | Spring Boot | Spring Security | MySQL | REST APIs | JPA | Hibernate | Maven | Git
 
 ---
 
 ## Contact
 
-Email: mdobariya568@gmail.com  
-LinkedIn: https://www.linkedin.com/in/meet-dobariya-1a216a2b6/  
-Leetcode: https://leetcode.com/u/meet_5181/
+**Email:** mdobariya568@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/meet-dobariya-1a216a2b6/  
+**LeetCode:** https://leetcode.com/u/meet_5181/
