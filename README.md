@@ -4,9 +4,12 @@
 
 ### Backend Developer | Java | Spring Boot | SQL
 
-Backend-focused developer skilled in designing secure, scalable REST APIs and structured database systems. Strong foundation in OOP, DSA, and backend architecture principles — focused on writing clean, maintainable, and reliable server-side applications.
+Backend-focused developer skilled in designing secure, scalable REST APIs and database-driven systems. Strong foundation in OOP, DSA, transaction management, multithreading, and backend architecture principles focused on building clean and reliable server-side applications.
 
-[LinkedIn](https://www.linkedin.com/in/meet-dobariya-1a216a2b6/) · [LeetCode](https://leetcode.com/u/meet_5181/) · [Email](mailto:mdobariya568@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/meet-dobariya-1a216a2b6/) · 
+[LeetCode](https://leetcode.com/u/meet_5181/) · 
+[GitHub](https://github.com/mdobariya3606-prog) · 
+[Email](mailto:mdobariya568@gmail.com)
 
 </div>
 
@@ -15,58 +18,82 @@ Backend-focused developer skilled in designing secure, scalable REST APIs and st
 ## Skills
 
 | Category | Skills |
-|---|---|
-| Languages & Core | Java, SQL, OOP (Object-Oriented Programming), Data Structures & Algorithms |
-| Backend Development | Spring Boot, Spring Security, REST API Design, JPA / Hibernate, JWT (Authentication & Authorization) |
-| Database | MySQL, Database Design, Normalization, Transaction Management |
-| Tools | Git & GitHub, Maven, IntelliJ IDEA, Postman |
+|-----------|----------|
+| Languages & Core | Java, SQL, OOP, Data Structures & Algorithms |
+| Backend Development | Spring Boot, Spring Security, REST APIs, JWT Authentication |
+| Database | MySQL, JPA, Hibernate, Database Design, Query Optimization |
+| Backend Concepts | Transaction Management, Multithreading, Scheduling, Exception Handling |
+| Tools | Git, GitHub, Maven, Postman, IntelliJ IDEA |
 
 ---
 
-## Projects *(Sorted by Difficulty)*
+# Featured Projects
 
 | # | Project | Description | Tech Stack |
-|---|---------|-------------|------------|
-| 1 | **Bank Management System** | Advanced transactional banking system supporting account creation, deposits, withdrawals, transfers, debit card generation, and transaction history. Implements ACID-compliant transaction handling and pessimistic locking to ensure data consistency during concurrent balance updates. | Java, Spring Boot, JPA, Hibernate, MySQL |
-| 2 | **JWT Authentication API** | Secure authentication system implementing token-based authorization using Spring Security and JWT. Handles login validation, token generation, and request filtering for protected endpoints with stateless session management. | Java, Spring Boot, Spring Security, JWT |
-| 3 | **Multi-Channel Notification System** | Backend system managing order processing, GST-based billing, and inventory tracking. Implements automated stock updates, low-stock alerts, payment validation, and notification triggers across multiple communication channels. | Java, Spring Boot, MySQL |
-| 4 | **Smart Courier Management System** | Multi-role backend workflow supporting Admin, Manager, Delivery Agent, and Customer roles. Handles order lifecycle, assignment logic, delivery tracking, and operational notifications. | Java, Spring Boot, MySQL |
-| 5 | **URL Shortener** | Service that converts long URLs into short unique identifiers and redirects users efficiently using database mapping and optimized lookup queries. | Java, Spring Boot, MySQL |
-| 6 | **Quiz Application API** | Backend quiz engine supporting random question generation, answer validation, scoring logic, and attempt history tracking. Ensures unique question distribution for each user session. | Java, Spring Boot, JPA, MySQL |
-| 7 | **Campaign Lifecycle Management System** | Backend modules for campaign creation, modification, and tracking with structured workflow handling. | Java, Spring Boot, MySQL |
-| 8 | **Task Management System** | REST API enabling task creation, updating, deletion, and filtering with status tracking. Designed using layered architecture for maintainability. | Java, Spring Boot, MySQL |
-| 9 | **Book Management System** | RESTful backend for managing book records with structured database relationships and CRUD operations. Integrated with Angular frontend for full-stack functionality. | Angular, Java, Spring Boot, MySQL |
+|---|----------|-------------|-------------|
+| 1 | **Bank Management System** | Advanced transactional banking system supporting deposits, withdrawals, transfers, debit card generation, and transaction history. Implemented pessimistic locking to maintain consistency during concurrent transactions. | Java, Spring Boot, JPA, Hibernate, MySQL |
+| 2 | **Multi-Channel Notification System** | Backend workflow system handling GST billing, inventory tracking, stock alerts, payment validation, and notification triggers. | Java, Spring Boot, MySQL |
+| 3 | **Campaign Lifecycle Management System** | Built backend modules for product catalog handling, discount campaigns, pagination, batch processing, and price history tracking. | Java, Spring Boot, MySQL |
+| 4 | **JWT Authentication API** | Secure authentication system using Spring Security and JWT with stateless authentication and role-based authorization. | Java, Spring Boot, Spring Security, JWT |
+| 5 | **URL Shortener** | Built URL shortening service with unique key generation, expiry handling, click tracking, and optimized redirection queries. | Java, Spring Boot, MySQL |
+
+---
+
+# Other Projects
+
+| # | Project | Description | Tech Stack |
+|---|----------|-------------|-------------|
+| 6 | **Smart Courier Management System** | Multi-role backend workflow for admin, manager, delivery agents, and customers with order lifecycle tracking. | Java, Spring Boot, MySQL |
+| 7 | **Quiz Application API** | Quiz backend supporting random question generation, answer validation, scoring, and attempt tracking. | Java, Spring Boot, JPA, MySQL |
+| 8 | **Task Management System** | REST API for task creation, updates, deletion, filtering, and status tracking. | Java, Spring Boot, MySQL |
+| 9 | **Book Management System** | Backend system for managing book records with CRUD operations and database relationships. Integrated with Angular frontend. | Angular, Java, Spring Boot, MySQL |
 
 ---
 
 ## Current Focus
 
-```
+```bash
 ├── Advanced Spring Security
-├── Role-Based Authorization (RBAC)
-├── Scalable Backend Architecture
-├── Writing clean service-layer logic
-└── Improving DSA problem solving speed
+├── Redis
+├── Docker
+├── Kafka
+├── AWS
+└── System Design
 ```
 
 ---
 
-## Tech Stack
+## Tech Stack Overview
 
 | Layer | Technologies |
-|-------|-------------|
+|--------|---------------|
 | Language | Java |
 | Frameworks | Spring Boot, Spring Security |
 | Database | MySQL, JPA, Hibernate |
-| API | REST APIs |
-| Build & Version Control | Maven, Git, GitHub |
+| API Development | REST APIs, JWT |
+| Tools | Git, GitHub, Maven, Postman |
+| Currently Learning | Redis, Docker, Kafka, AWS |
 
 ---
 
-## Contact
+## Coding Profiles
 
 | Platform | Link |
-|----------|------|
-| Email    | [mdobariya568@gmail.com](mailto:mdobariya568@gmail.com) |
-| LinkedIn | [meet-dobariya-1a216a2b6](https://www.linkedin.com/in/meet-dobariya-1a216a2b6/) |
-| LeetCode | [meet_5181](https://leetcode.com/u/meet_5181/) |
+|-----------|--------|
+| GitHub | https://github.com/mdobariya3606-prog |
+| LeetCode | https://leetcode.com/u/meet_5181/ |
+| LinkedIn | https://linkedin.com/in/meet-dobariya-1a216a2b6 |
+
+---
+
+## 2026 Goal
+
+Build a production-grade backend system that includes:
+
+- Redis caching
+- Docker containerization
+- Kafka event-driven architecture
+- AWS deployment
+- Rate limiting
+- Async processing
+- Scalable backend design principles
