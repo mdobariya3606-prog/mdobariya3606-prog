@@ -56,8 +56,6 @@ Backend-focused developer skilled in designing secure, scalable REST APIs and da
 ├── Advanced Spring Security
 ├── Redis
 ├── Docker
-├── Kafka
-├── AWS
 └── System Design
 ```
 
